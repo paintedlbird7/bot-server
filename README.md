@@ -1,4 +1,4 @@
-# bot server
+# bot server for messenger chatbot 
 Node JS Express (WIP)
 
 ***Webhook tested & works on local server:***
