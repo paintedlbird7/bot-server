@@ -1,6 +1,8 @@
 # bot server for messenger chatbot 
 Node JS Express (WIP)
 
+works as expected ... 
+
 ***Webhook tested & works on local server:***
 
 WEBHOOK_VERIFIED successfully logged to the command line where my node process is running.
